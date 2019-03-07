@@ -1,0 +1,27 @@
+body {
+
+background-color:rbg(0,0,0); font-family:courier;
+
+}
+li { font-family:Arial;
+
+}
+
+h1 { font-family:helvetica; serif;front-size: 20px;	
+}
+
+ li {color: black;
+  text-decoration: rgb(66, 244, 170);
+  transition: color 0.3s ease;
+}
+li :hover {
+  color: rgb(66, 244, 170);
+  text-decoration: none;
+}
+
+div {
+	text-align: center;
+	background-color:white;
+}
+
+ 
